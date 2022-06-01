@@ -1,0 +1,119 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_csrf",
+      "value": "y1OviH3thOMVVhYNyTWgAaTj",
+      "domain": "auth.reviews.compono.dev",
+      "path": "/usernamepassword/login",
+      "expires": 1654951238.228846,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "did",
+      "value": "s%3Av0%3A09f18020-e1a8-11ec-97f5-f1cd6a0c3290.W9b%2FA77iH%2BPAra53mWxO3MjgMiHG%2FiTSipYZ2qq1l%2FQ",
+      "domain": "auth.reviews.compono.dev",
+      "path": "/",
+      "expires": 1685644838.014732,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "did_compat",
+      "value": "s%3Av0%3A09f18020-e1a8-11ec-97f5-f1cd6a0c3290.W9b%2FA77iH%2BPAra53mWxO3MjgMiHG%2FiTSipYZ2qq1l%2FQ",
+      "domain": "auth.reviews.compono.dev",
+      "path": "/",
+      "expires": 1685644838.014823,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "auth0",
+      "value": "s%3A5ki5HTU0c3w8Xoue4jCAGLrBKzjZZMYG.c6M9NhHPHQ9qnOVehSsee7syjhtoLBtS7DAf3Ejv6aM",
+      "domain": "auth.reviews.compono.dev",
+      "path": "/",
+      "expires": 1654090842.472493,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "auth0_compat",
+      "value": "s%3A5ki5HTU0c3w8Xoue4jCAGLrBKzjZZMYG.c6M9NhHPHQ9qnOVehSsee7syjhtoLBtS7DAf3Ejv6aM",
+      "domain": "auth.reviews.compono.dev",
+      "path": "/",
+      "expires": 1654090842.472542,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "mp_cd090c9a3b2bbc65ca3beaf9ce5741ce_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%20%221811f483e541b4-0358dfcf5aec49-36786600-e1000-1811f483e55fa4%22%2C%22%24device_id%22%3A%20%221811f483e541b4-0358dfcf5aec49-36786600-e1000-1811f483e55fa4%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D",
+      "domain": ".compono.dev",
+      "path": "/",
+      "expires": 1685623242,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_legacy_auth0.JuxatDpWJNqoj7VW8rHzruBvpPeffX10.is.authenticated",
+      "value": "true",
+      "domain": "candidate--qa-exercise-may.reviews.compono.dev",
+      "path": "/",
+      "expires": 1654173643,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "auth0.JuxatDpWJNqoj7VW8rHzruBvpPeffX10.is.authenticated",
+      "value": "true",
+      "domain": "candidate--qa-exercise-may.reviews.compono.dev",
+      "path": "/",
+      "expires": 1654173643,
+      "httpOnly": false,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "chmln-pid-D7YJoVxdGB7MsLkg",
+      "value": "MWVibm1Gbms5VXJJRnhZczZGZXhZYnk3L3lXalo3YVhaQm00ekRnN2NZT3kvWFFFTDNhM0k0Y1BGZHBEcGJKaC0tL0pHd1lkZ050NTdMYUdWZWhONjFVZz09--45e336323a87abc035f95ad33a65111774b96687",
+      "domain": ".trychameleon.com",
+      "path": "/",
+      "expires": 2285239245.898234,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "intercom-session-ewnichpq",
+      "value": "Zk84aytYNzVTNGp3TWszTEJsMEwrVzlpVmxKYWZsWk82MFlmbkVROTR1T0VHU2FyVzFkWnNZcFRsQ08xL0hDLy0tWkpLVC8yU0NlN2tMclBmUmJIeVBCQT09--c08dc7c7e2e34016cc58d964e771fd8798c54df8",
+      "domain": ".compono.dev",
+      "path": "/",
+      "expires": 1654692046,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://candidate--qa-exercise-may.reviews.compono.dev",
+      "localStorage": [
+        {
+          "name": "intercom.intercom-state",
+          "value": "{\"app\":{\"color\":\"#333333\",\"secondaryColor\":\"#333333\",\"selfServeSuggestionsMatch\":false,\"name\":\"Shortlyster [TEST]\",\"features\":{\"anonymousInboundMessages\":true,\"googleAnalytics\":false,\"hubspotInstalled\":false,\"inboundMessages\":true,\"marketoEnrichmentInstalled\":false,\"outboundMessages\":true},\"launcherLogoUrl\":null,\"boundWebEvents\":[],\"inboundConversationsDisabled\":true,\"isInstantBootEnabled\":true,\"alignment\":\"right\",\"horizontalPadding\":20,\"verticalPadding\":20,\"isDeveloperWorkspace\":false,\"customGoogleAnalyticsTrackerId\":null},\"launcher\":{\"isLauncherEnabled\":false},\"launcherDiscoveryMode\":{\"hasDiscoveredLauncher\":false},\"user\":{\"role\":\"user\",\"locale\":\"en\",\"hasConversations\":false},\"message\":{},\"conversations\":{\"byId\":{}},\"openOnBoot\":{\"type\":null,\"metadata\":{}},\"operator\":{\"lastComposerEvent\":0}}"
+        },
+        {
+          "name": "chmln:l.C.d",
+          "value": "{\"profile\":{\"M\":\"Profile\",\"attributes\":{\"id\":\"62972d32fcf328001a0ca005\",\"uid\":\"e4cb5acd-090e-47f0-8938-2b06374298ce\"}}}"
+        }
+      ]
+    }
+  ]
+}
