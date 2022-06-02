@@ -45,6 +45,10 @@ Open last HTML report ```npx playwright show-report```
 
 After each test failure screen shouts are captured and store under playwright report directory
 
+trace.zip file created for  each test that was failed and you can open the saved trace using 
+Playwright CLI or in browser on trace.playwright.dev
+
+
 ### Useful Resources
 * https://playwright.dev/
 * https://www.udemy.com/share/106byY3@IwZeZ1RM8zXjNl70G9bE6pHtUHNd4FgtPg0c17R8lwFxywnLbly95nMvNaeqdiO8/
