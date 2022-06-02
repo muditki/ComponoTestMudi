@@ -7,7 +7,7 @@ const config = {   // config object
      * Maximum time expect() should wait for th e condition to be met.
      * For example in `await expect(locator).toHaveText();`
      */
-    timeout: 20000
+    timeout: 30000
   },
   reporter: 'html',
   use: {  // use property what ever u declare here test cases will read it 
